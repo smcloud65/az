@@ -11,7 +11,7 @@ template_version: 0.11
 # variable_files: If it is standard extension(.tfvars for terraform), then this can be omitted.
 # variable_files: For a custom extension, specify the variable file path from the root of the repo.
 template_parameters:
-ariables:
+variables:
   key1 : value1
   key2 : value2
 variable_files:
